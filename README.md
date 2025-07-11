@@ -1,7 +1,8 @@
 # Data Analyst
 
 ### Education
-Masters, bachelors
+Masters In Information Technology, 
+Bachelors in Electronics and Communication Engineering
 
 ### work exp
 mckinsey
